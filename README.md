@@ -30,7 +30,7 @@ sudo apt-get update -y
 sudo apt-get install redir -y
 ```
 执行后如下图则已完成转发服务安装  
-![](https://img2020.cnblogs.com/blog/1862911/202111/1862911-20211130111537422-1560036986.png)
+![](https://img2020.cnblogs.com/blog/1862911/202111/1862911-20211130112130026-1891389346.png)
 #### 2.启动转发端口服务  
 ```
 sudo redir :6666 asia2.ethermine.org:4444
