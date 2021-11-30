@@ -3,10 +3,10 @@
 可搭建香港服务器转发数据解决该问题
 ## 购买香港服务器
 #### 1.选配服务器
-国内推荐腾讯云和阿里云的香港服务器，点击下方链接打开网页
-[【腾讯云】云服务器全球购](https://cloud.tencent.com/act/cps/redirect?redirect=1068&cps_key=5c54c86b3f4415abe2b9de54f11937db&from=console)
-[【阿里云】云服务器 精选特惠](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=xrpv28iz)
-**腾讯云**选择**中国香港**地域，操作系统选择**Ubuntu**系统，其他默认即可，点击购买
+国内推荐腾讯云和阿里云的香港服务器，点击下方链接打开网页  
+[【腾讯云】云服务器全球购](https://cloud.tencent.com/act/cps/redirect?redirect=1068&cps_key=5c54c86b3f4415abe2b9de54f11937db&from=console)  
+[【阿里云】云服务器 精选特惠](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=xrpv28iz)  
+**腾讯云**选择**中国香港**地域，操作系统选择**Ubuntu**系统，其他默认即可，点击购买  
 ![](https://img2020.cnblogs.com/blog/1862911/202111/1862911-20211127194009506-959653531.jpg)
 **阿里云**选择**中国香港与海外服务器**，立即购买
 ![](https://img2020.cnblogs.com/blog/1862911/202111/1862911-20211128165036302-107136217.png)
