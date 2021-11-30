@@ -31,7 +31,9 @@ sudo apt-get install redir -y
 执行后如下图则已完成转发服务安装
 ![](https://img2020.cnblogs.com/blog/1862911/202111/1862911-20211127194352103-1735688817.jpg)
 #### 2.启动转发端口服务
-```sudo redir :6666 asia2.ethermine.org:4444```
+```
+sudo redir :6666 asia2.ethermine.org:4444
+```
 执行后没有任何输出，表示执行成功
 说明：
 6666：监听访问本服务器的6666端口，可改成自己矿机想访问服务器的端口
@@ -40,14 +42,20 @@ asia2.ethermine.org:4444：转发到asia2.ethermine.org的4444端口，可根据
 使用服务器公网ip:6666即可。例如：1.2.3.4:6666
 # 补充：修改端口转发地址
 1.查看当前监听端口的id
-`sudo netstat -anp |grep 6666`
+```
+sudo netstat -anp |grep 6666
+```
 执行后如下图，看到该监听端口id为1907
 ![](https://img2020.cnblogs.com/blog/1862911/202111/1862911-20211127194459025-165795212.png)
 2.停止当前转发服务
-`sudo kill 1907`
+```
+sudo kill 1907
+```
 此处的1907为我查询到的id，需要替换成你实际看到的id，不要直接复制该命令执行
 3.启动转发端口服务
-`sudo redir :6666 asia2.ethermine.org:4444`
+```
+sudo redir :6666 asia2.ethermine.org:4444
+```
 执行后没有任何输出，则修改成功！
 此外，若云服务器重启，转发服务也需要重新启动，执行此处的启动命令即可
 有问题可以进群讨论[t.me](https://t.me/+CetxQfaj0aBlM2I1)
