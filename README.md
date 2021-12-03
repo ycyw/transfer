@@ -72,7 +72,8 @@ sudo redir :6666 asia2.ethermine.org:4444
 [tg交流群](https://t.me/+CetxQfaj0aBlM2I1)  
 # 附：自建免费中转服务  
 该中转服务器为腾讯云香港地域  
-可用来测试矿机延迟情况，按照上方教程自建服务器后，延迟与该测试服务器基本一致  
+不想自建中转服务器可直接使用该地址  
+也可用来测试矿机延迟情况，按照上方教程自建服务器后，延迟与该服务器基本一致  
 |    币种/矿池  |   鱼池（f2pool.com）   |   e池（ethermine.org）   |
 | ---- | ---- | ---- |
 |   ETH   |   f2pool.555pool.com:6688   |   ethermine.555pool.com:4444   |
