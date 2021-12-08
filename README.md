@@ -75,7 +75,7 @@ sudo redir :6666 asia2.ethermine.org:4444
 不想自建中转服务可直接使用该地址，无抽水  
 也可用来测试矿机延迟情况，按照上方教程自建服务后，延迟与该服务器基本一致  
 |    币种/矿池  |   鱼池（f2pool.com）      |
-| ---- | ---- | ---- |
+| ---- | ---- |
 |   ETH   |   f2pool.555pool.com:6688      |
 |   ETC   |   f2pool.555pool.com:8118     |
 |   LTC   |   f2pool.555pool.com:8888      |
