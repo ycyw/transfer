@@ -71,12 +71,12 @@ sudo redir :6666 eth.f2pool.com:6688
 此外，若云服务器重启，转发服务也需要重新启动，执行此处的启动命令即可  
 有问题可以加微信w_onea  
 [tg交流群](https://t.me/+CetxQfaj0aBlM2I1)  
-# 附：自建免费中转服务  
+## 附：自建免费中转服务  
 该中转服务器为腾讯云香港地域  
 不想自建中转服务可直接使用该地址，无抽水  
 也可用来测试矿机延迟情况，按照上方教程自建服务后，延迟与该服务器基本一致  
 |    币种/矿池  |   鱼池（f2pool.com）      |
 | ---- | ---- |
 |   ETH   |   f2pool.555pool.com:6688      |
-|   ETC   |   f2pool.555pool.com:8118     |
+|   ETC   |   f2pool.555pool.com:8118      |
 |   LTC   |   f2pool.555pool.com:8888      |
