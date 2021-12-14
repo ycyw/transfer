@@ -1,7 +1,7 @@
-## 前言
+### 前言
 目前各大矿池国内DNS基本被污染无法请求  
 可搭建香港服务器转发数据解决该问题
-## 购买香港服务器
+### 购买香港服务器
 #### 1.选配服务器
 国内推荐腾讯云和阿里云的香港服务器，点击下方链接打开网页  
 [【腾讯云】云服务器全球购](https://cloud.tencent.com/act/cps/redirect?redirect=1068&cps_key=5c54c86b3f4415abe2b9de54f11937db&from=console)  
