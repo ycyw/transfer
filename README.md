@@ -4,8 +4,8 @@
 ## 购买香港服务器
 #### 1.选配服务器
 国内推荐腾讯云和阿里云的香港服务器，点击下方链接打开网页  
-[【腾讯云】云服务器全球购](https://cloud.tencent.com/act/cps/redirect?redirect=1068&cps_key=5c54c86b3f4415abe2b9de54f11937db&from=console)  
-[【阿里云】云服务器 精选特惠](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=xrpv28iz)  
+<a href="https://cloud.tencent.com/act/cps/redirect?redirect=1068&cps_key=5c54c86b3f4415abe2b9de54f11937db&from=console" target="_blank">【腾讯云】云服务器全球购</a>  
+<a href="https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=xrpv28iz" target="_blank">【阿里云】云服务器 精选特惠</a>  
 **腾讯云**选择**中国香港**地域，操作系统选择**Ubuntu**系统，其他默认即可，点击购买  
 若已售罄可**切换配置**或选择**新加坡**地域或选择**轻量应用服务器**  
 ![](https://img2020.cnblogs.com/blog/1862911/202111/1862911-20211130111508863-1065655365.png)  
