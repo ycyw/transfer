@@ -1,6 +1,3 @@
-### 最新版恒创云教程已更新，该服务商总部位于香港，主要为香港/海外用户提供服务，不需要实名认证
-查阅老版腾讯云教程<a href="https://github.com/ycyw/transfer/blob/main/tenxunyun.md" target="_blank">点击此处</a>  
-
 ## 购买香港服务器
 #### 1.购买服务器
 点击下方链接打开网页  
