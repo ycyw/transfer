@@ -77,7 +77,7 @@ sudo redir :6666 eth.f2pool.com:6688
 |   ETH（TCP协议）   |   f2pool.555pool.com:6688      |   ethermine.555pool.com:14444      |
 |   ETH（SSL加密）   |   f2pool.555pool.com:6689      |   ethermine.555pool.com:5555      |
   
-注：各个内核SSL连接地址的格式并不全都统一，且部分内核不支持SSL，若SSL地址连接报错，可尝试在地址前添加“stratum+ssl://”，或查看内核配置文档ssl所需的参数  
+注：TCP协议地址可直接使用。SSL加密地址各个内核的格式并不全都统一，且部分内核不支持SSL，若SSL地址连接报错，可尝试在地址前添加“stratum+ssl://”，或查看内核配置文档ssl所需的参数  
 已测试内核：  
 gminer需要添加配置参数“--SSL 1”  
 nbminer需要在地址前添加“stratum+ssl://”  
