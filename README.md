@@ -3,7 +3,7 @@
 根据目前情况虽然腾讯云给部分中转用户发了自查通知，但实际并未进行封禁操作，后续也不太可能直接关停，首选还是推荐腾讯云，网络延迟相对低一些  
 
 恒创云教程<a href="https://github.com/ycyw/transfer/blob/main/hengchuangyun.md" target="_blank">点击此处</a>  
-恒创云总部位于香港，主要为香港/海外用户提供服务，不需要实名认证，不想用腾讯云可选择该服务商  
+恒创云总部位于香港，主要为香港/海外用户提供服务，不需要实名认证，担心清退可选择该服务商  
 
 此外，也可使用uc云，该服务商价格相对较优惠，先<a href="https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1x6272BF38EE97" target="_blank">注册账号</a>，再<a href="https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1x6272BF38EE97" target="_blank">点击此处</a>打开链接注册购买香港服务器年付最低仅84元  
 
