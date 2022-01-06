@@ -1,8 +1,14 @@
 ## 自建中转服务教程
 腾讯阿里云教程<a href="https://github.com/ycyw/transfer/blob/main/tenxunyun.md" target="_blank">点击此处</a>  
+根据目前情况虽然腾讯云给部分中转用户发了自查通知，但实际并未进行封禁操作，后续也不太可能直接关停，首选还是推荐腾讯云，网络延迟相对低一些  
+
 恒创云教程<a href="https://github.com/ycyw/transfer/blob/main/hengchuangyun.md" target="_blank">点击此处</a>  
-根据目前情况虽然腾讯云给部分中转用户发了自查通知，但实际并未进行封禁操作，首选还是推荐腾讯云，网络延迟相对低一些  
 恒创云总部位于香港，主要为香港/海外用户提供服务，不需要实名认证，不想用腾讯云可选择该服务商  
+
+此外，也可使用uc云，该服务商价格相对较优惠，<a href="https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1x6272BF38EE97" target="_blank">点击此处</a>打开链接注册购买香港服务器年付最低仅84元  
+
+关于延迟情况，实测广州/深圳地区腾讯云10ms，恒创云、uc云10+ms，比腾讯云略高
+
 
 ## 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址，服务器费用0.5%  
