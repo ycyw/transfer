@@ -36,5 +36,6 @@ sudo redir :6666 eth.f2pool.com:6688
 sudo redir :本地监听端口 转发到的地址和端口
 ```
 该启动端口转发命令执行多次即可，注意本地监听端口不可重复  
-#### 4.如何联系  
-有问题可以添加微信w_onea  
+#### 4.联系方式  
+<a href="https://t.me/+jKRf0T6YgPhlNTA1" target="_blank">TG交流群</a>  
+微信群添加微信w_onea备注进群  
