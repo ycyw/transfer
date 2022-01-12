@@ -5,10 +5,7 @@
 恒创云教程<a href="https://github.com/ycyw/transfer/blob/main/hengchuangyun.md" target="_blank">点击此处</a>  
 恒创云总部位于香港，主要为香港/海外用户提供服务，不需要实名认证，担心清退可选择该服务商  
 
-此外，也可使用uc云，该服务商价格相对较优惠，先<a href="https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1x6272BF38EE97" target="_blank">注册账号</a>，再<a href="https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1x6272BF38EE97#xianggang" target="_blank">点击此处</a>打开链接注册购买香港服务器年付最低仅84元  
-
-关于延迟情况，国内有三大运营商，且地域广阔，实际延迟根据不同地域、运营商线路等会上下浮动。实测广州/深圳地区腾讯云10ms，恒创云、uc云10+ms，比腾讯云略高
-
+关于延迟情况，国内有三大运营商，且地域广阔，实际延迟根据不同地域、运营商线路等会上下浮动。实测广州/深圳地区腾讯云10ms，恒创云10+ms，比腾讯云略高
 
 ## 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址，服务器费用0.5%  
