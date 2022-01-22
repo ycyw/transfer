@@ -53,10 +53,10 @@ yum install -y socat
 nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 &
 ```
 说明：
-> TCP-LISTEN:6688 -> 监听访问本机的6688TCP端口，可改成自己矿机想访问的端口
-> fork TCP:eth.f2pool.com:6688 -> 转发到eth.f2pool.com的6688端口，根据需要自行修改为矿池的地址和端口
+> TCP-LISTEN:6688 -> 监听访问本机的6688TCP端口，可改成自己矿机想访问的端口  
+> fork TCP:eth.f2pool.com:6688 -> 转发到eth.f2pool.com的6688端口，根据需要自行修改为矿池的地址和端口  
 
-到此就搭建完成了，将矿池地址修改为服务器ip:6688即可开始挖矿，例如：1.2.3.4:6688
+执行后如下图，则搭建完成，将矿池地址修改为邮件中的服务器ip:6688即可开始挖矿，例如：1.2.3.4:6688
 ![](https://github.com/ycyw/transfer/blob/main/static/9.png)  
 
 ## 三、常见问题
