@@ -83,6 +83,13 @@ ps -ef | grep socat | grep -v grep | awk '{print $2}' | xargs kill -9
 nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 &
 ```
 
+#### 如何卸载socat
+执行如下命令，二次确认时，输入y即可  
+注：卸载不能停止端口转发，若需要停止使用上面的停止命令
+```
+yum remove socat
+```
+
 #### 端口转发原理
 端口转发是将矿机直连矿池，变成了矿机连服务器，服务器连矿池，服务器在中间作为一个代理桥梁的存在  
 对矿池而言，你的服务器在香港，那么你就是香港用户，矿机的具体位置城市，矿池是无法查看到的  
