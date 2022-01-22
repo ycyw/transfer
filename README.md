@@ -2,7 +2,7 @@
 
 腾讯阿里云教程<a href="https://github.com/ycyw/transfer/blob/main/tenxunyun.md" target="_blank">点击此处</a>
 
-#### 【墙裂推荐】【保姆级手把手教】最新搬瓦工端口转发教程<a href="https://github.com/ycyw/transfer/blob/main/banwagong.md" target="_blank">点击此处</a>
+#### 【墙裂推荐】【保姆级手把手教】最新搬瓦工自建中转教程<a href="https://github.com/ycyw/transfer/blob/main/banwagong.md" target="_blank">点击此处</a>
 
 ### 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址，服务器费用0.5%  
