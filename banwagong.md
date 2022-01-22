@@ -78,7 +78,7 @@ ps -ef | grep socat | grep -v grep | awk '{print $2}' | xargs kill -9
 ```
 
 #### 启动端口转发
-执行如下命令转发至鱼池eth，参数解释见上文。此外，服务器重启后需要使用该命令重新启动端口转发  
+执行如下命令启动端口转发至鱼池eth，参数解释见上文。此外，服务器重启后需要使用该命令重新启动端口转发  
 ```
 nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 &
 ```
