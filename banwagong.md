@@ -84,10 +84,10 @@ nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 
 ```
 
 #### 如何卸载socat
-执行如下命令，二次确认时，输入y即可  
+执行如下命令即可  
 注：卸载不能停止端口转发，若需要停止使用上面的停止命令
 ```
-yum remove socat
+yum remove -y socat
 ```
 
 #### 端口转发原理
