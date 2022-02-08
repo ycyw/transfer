@@ -15,6 +15,7 @@
 
 ### 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址，服务器费用0.5%  
+官网：<a href="https://555pool.com" target="_blank">https://555pool.com</a>  
 |    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
 | ---- | ---- | ---- |
 |   鱼池（f2pool.com）   |   f2pool.555pool.com:6688      |   f2pool.555pool.com:6689      |
