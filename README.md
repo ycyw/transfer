@@ -1,13 +1,13 @@
 ### 自建中转服务教程
 
 腾讯阿里云教程<a href="https://github.com/ycyw/transfer/blob/main/tenxunyun.md" target="_blank">点击此处</a>  
-虽然腾讯云封禁过一波服务器，但此后购买的服务器继续中转挖矿也没有问题，首选还是推荐腾讯云，网络延迟低很多  
+虽然腾讯云封禁过一波服务器，但此后购买的服务器继续中转挖矿也没有问题，首选还是推荐腾讯云，网络延迟低很多，即使被封禁也没关系，退款后继续购买或换一个服务商即可  
 
 恒创云教程<a href="https://github.com/ycyw/transfer/blob/main/hengchuangyun.md" target="_blank">点击此处</a>  
 恒创云总部位于香港，主要为香港/海外用户提供服务，不需要实名认证，简体中文操作界面  
 
 最新搬瓦工自建中转教程<a href="https://github.com/ycyw/transfer/blob/main/banwagong.md" target="_blank">点击此处</a>  
-搬瓦工为国外云服务器商，不需要实名，网站界面比较古老，不过服务器质量一直都不错  
+搬瓦工为国外云服务器商，不需要实名，网站界面比较古老，不过服务器质量一直都不错，担心被封可直接使用该服务商，很稳定  
 
 关于延迟情况，国内有三大运营商，且地域广阔，实际延迟根据不同地域、运营商线路等会上下浮动
 
