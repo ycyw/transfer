@@ -18,7 +18,7 @@
 #### 3.购买流程
 教程以CN2 GIA-E方案为例，点击上方链接打开购买页面。默认为49.99美元/季度，可选择半年付或年付，机房推荐选择日本软银，国内延迟相对较低  
 ![](https://github.com/ycyw/transfer/blob/main/static/1.png)  
-> 添加到购物车后，使用优惠码`BWHNY2022`可减免12.22%，循环折扣，续费也是这个价格  
+> 添加到购物车后，确认价格，去付款  
 
 ![](https://github.com/ycyw/transfer/blob/main/static/2.png)  
 > 填写注册信息，其中邮箱、电话号码、密码、国家需要认真填写，其他信息随意  
