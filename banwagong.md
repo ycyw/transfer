@@ -50,7 +50,7 @@
 
 ```
 yum install -y socat
-nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 &
+nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 & disown
 ```
 说明：
 > TCP-LISTEN:6688 -> 监听访问本机的6688TCP端口，可改成自己矿机想访问的端口  
@@ -82,7 +82,7 @@ ps -ef | grep socat | grep -v grep | awk '{print $2}' | xargs kill -9
 若需要添加多个端口转发，执行多次该命令即可  
 服务器重启后需要使用该命令重新启动端口转发  
 ```
-nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 &
+nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 & disown
 ```
 
 #### 如何卸载socat
