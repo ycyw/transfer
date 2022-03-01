@@ -4,7 +4,7 @@
 可能会封禁服务器，网络延迟低很多  
 
 恒创云教程<a href="https://github.com/ycyw/transfer/blob/main/hengchuangyun.md" target="_blank">点击此处</a>  
-恒创云总部位于香港，主要为香港/海外用户提供服务，不需要实名认证，简体中文操作界面（不推荐，会阻断矿池地址连接）  
+恒创云总部位于香港，主要为香港/海外用户提供服务，不需要实名认证，简体中文操作界面（可能会阻断矿池地址连接）  
 
 最新搬瓦工自建中转教程<a href="https://github.com/ycyw/transfer/blob/main/banwagong.md" target="_blank">点击此处</a>  
 搬瓦工为国外云服务器商，不需要实名，网站界面比较古老，不过服务器质量一直都不错，担心被封可直接使用该服务商，很稳定  
