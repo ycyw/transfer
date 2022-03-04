@@ -50,18 +50,22 @@ sudo killall redir
 sudo redir :6666 eth.f2pool.com:6688
 ```
 此处本地端口与转发到的地址端口可根据需要自行修改  
+
 ## 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址，服务器费用0.5%  
-|    币种/矿池  |   鱼池（f2pool.com）      |   e池（ethermine.org）      |
+更多地址可到官网查看：<a href="https://555pool.com" target="_blank">https://555pool.com</a>  
+|    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
 | ---- | ---- | ---- |
 |   鱼池（f2pool.com）   |   f2pool.555pool.com:55501      |   f2pool.555pool.com:55502      |
 |   e池（ethermine.org）   |   ethermine.555pool.com:55503      |   ethermine.555pool.com:55504      |
 |   币印（poolin.me）   |   poolin.555pool.com:55505      |   poolin.555pool.com:55506      |
   
-注：TCP地址可直接使用。SSL地址各个内核的格式并不全都统一，且部分内核不支持SSL，若SSL地址连接报错，可尝试在地址前添加“stratum+ssl://”，或查看内核配置文档ssl所需的参数  
-已测试内核：  
-gminer需要添加配置参数“--SSL 1”  
-nbminer需要在地址前添加“stratum+ssl://”  
+* TCP地址可直接使用
+* SSL地址各个内核的格式并不全都统一，且部分内核不支持SSL，若SSL地址连接报错，可尝试在地址前添加`stratum+ssl://`，或查看内核配置文档ssl所需的参数，以下内核已测试：   
+  * gminer需要添加配置参数`--SSL 1`  
+  * nbminer需要在地址前添加`stratum+ssl://`  
+* 部分矿池可能会连接失败，此时等待一分钟左右，让内核程序自动重连即可
+
 ## 常见问题  
 #### 1.端口转发原理  
 端口转发是将矿机直连矿池，变成了矿机连服务器，服务器连矿池，服务器在中间作为一个代理桥梁的存在  
