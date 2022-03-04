@@ -69,19 +69,7 @@ sudo redir :6666 eth.f2pool.com:6688
 执行后没有任何输出，则修改成功！  
 有问题可以加微信w_onea  
 [tg交流群](https://t.me/+jKRf0T6YgPhlNTA1)  
-## 中转服务节点  
-该中转服务器为腾讯云香港地域，可用来测试矿机延迟情况，按照上方教程自建服务后，延迟与该服务器基本一致  
-不想或不会自建服务器，也可直接使用下面的地址，服务器费用0.5%  
-|    币种/矿池  |   鱼池（f2pool.com）      |   e池（ethermine.org）      |
-| ---- | ---- | ---- |
-|   鱼池（f2pool.com）   |   f2pool.555pool.com:55501      |   f2pool.555pool.com:55502      |
-|   e池（ethermine.org）   |   ethermine.555pool.com:55503      |   ethermine.555pool.com:55504      |
-|   币印（poolin.me）   |   poolin.555pool.com:55505      |   poolin.555pool.com:55506      |
-  
-注：TCP协议地址可直接使用。SSL加密地址各个内核的格式并不全都统一，且部分内核不支持SSL，若SSL地址连接报错，可尝试在地址前添加“stratum+ssl://”，或查看内核配置文档ssl所需的参数  
-已测试内核：  
-gminer需要添加配置参数“--SSL 1”  
-nbminer需要在地址前添加“stratum+ssl://”  
+
 ## 常见问题  
 #### 1.搭建完成后连接失败  
 查看服务器的安全组/防火墙是否放开了相应端口，教程使用端口为6666，可以改成自己想用的端口，1024-49151任选一个端口号即可（教程使用的腾讯云CVM服务器默认放开全部端口，不需要配置）。若端口已开放但连接失败，使用矿机ping服务器公网IP，服务器ping矿池地址，查看是否ping通，若有一边ping失败，腾讯云CVM服务器可更换IP地址后使用新IP再连接  
@@ -94,3 +82,19 @@ nbminer需要在地址前添加“stratum+ssl://”
 ```
 sudo redir :6666 eth.f2pool.com:6688
 ```
+
+## 中转服务节点  
+不想或不会自建服务器，可直接使用下面的地址，服务器费用0.5%  
+更多地址可到官网查看：<a href="https://555pool.com" target="_blank">https://555pool.com</a>  
+|    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
+| ---- | ---- | ---- |
+|   鱼池（f2pool.com）   |   f2pool.555pool.com:55501      |   f2pool.555pool.com:55502      |
+|   e池（ethermine.org）   |   ethermine.555pool.com:55503      |   ethermine.555pool.com:55504      |
+|   币印（poolin.me）   |   poolin.555pool.com:55505      |   poolin.555pool.com:55506      |
+  
+* TCP地址可直接使用  
+* SSL地址各个内核的格式并不全都统一，且部分内核不支持SSL，若SSL地址连接报错，可尝试在地址前添加`stratum+ssl://`，或查看内核配置文档ssl所需的参数，以下内核已测试：   
+  * gminer需要添加配置参数`--SSL 1`  
+  * nbminer需要在地址前添加`stratum+ssl://`  
+* 部分矿池可能会连接失败，此时等待一分钟左右，让内核程序自动重连即可  
+
