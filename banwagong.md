@@ -96,3 +96,12 @@ yum remove -y socat
 端口转发是将矿机直连矿池，变成了矿机连服务器，服务器连矿池，服务器在中间作为一个代理桥梁的存在  
 对矿池而言，你的服务器在香港，那么你就是香港用户，矿机的具体位置城市，矿池是无法查看到的  
 再配合匿名挖矿，矿池即使想，也获取不到挖矿用户的具体信息  
+
+### 中转服务节点  
+不想或不会自建服务器，可直接使用下面的地址，服务器费用0.5%  
+更多地址可到官网查看：<a href="https://555pool.com" target="_blank">https://555pool.com</a>  
+|    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
+| ---- | ---- | ---- |
+|   鱼池（f2pool.com）   |   f2pool.555pool.com:55501      |   f2pool.555pool.com:55502      |
+|   e池（ethermine.org）   |   ethermine.555pool.com:55503      |   ethermine.555pool.com:55504      |
+|   币印（poolin.me）   |   poolin.555pool.com:55505      |   poolin.555pool.com:55506      |
