@@ -10,7 +10,7 @@
 
 
 ### 中转服务节点  
-不想或不会自建服务器，可直接使用下面的地址。另有付费0抽地址，需要可添加下方微信咨询  
+不想或不会自建服务器，可直接使用下面的地址。另有付费0抽地址，需要可添加微信w_onea 
 更多地址及常见问题可到官网查看：<a href="https://555pool.com" target="_blank">https://555pool.com</a>  
 |    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
 | ---- | ---- | ---- |
@@ -18,6 +18,3 @@
 |   e池（ethermine.org）   |   ethermine.555pool.com:55503      |   ethermine.555pool.com:55504      |
 |   币印（poolin.me）   |   poolin.555pool.com:55505      |   poolin.555pool.com:55506      |
   
-
-### 联系方式  
-微信号w_onea  
