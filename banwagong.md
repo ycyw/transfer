@@ -101,7 +101,7 @@ yum remove -y socat
 ## 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址  
 更多地址及常见问题可到官网查看：<a href="https://555pool.com" target="_blank">https://555pool.com</a>  
-另有付费无抽水GOST加密伪装挖矿流量数据（比SSL更安全，有效防止运营商监控），使用GOST需要在矿机进行配置，需要可联系微信号w_onea  
+另有付费无抽水GOST本地加密伪装挖矿流量数据（比SSL更安全，有效防止运营商监控），使用GOST需要在矿机进行配置，需要可联系微信号w_onea  
 |    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
 | ---- | ---- | ---- |
 |   鱼池（f2pool.com）   |   f2pool.555pool.com:55501      |   f2pool.555pool.com:55502      |
