@@ -60,6 +60,12 @@ nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 
 ![](https://img2022.cnblogs.com/blog/1862911/202204/1862911-20220403122522538-1373413759.png)  
 
 ## 三、常见问题
+#### 挖着挖着掉线连不上了
+可能是转发进程挂了，执行以下命令重启转发
+```
+nohup socat TCP-LISTEN:6688,reuseaddr,fork TCP:eth.f2pool.com:6688 >> socat.log 2>&1 & disown
+```
+
 #### 如何修改挖矿地址
 * 内核直接去修改挖矿地址
 * 轻松地址修改流程：矿池选择栏 -> 矿池管理 -> 右键矿池地址 -> 修改 -> 矿池地址
